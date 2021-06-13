@@ -1,0 +1,35 @@
+body {
+  background-image: radial-gradient(circle, black, black, black);
+  background-repeat: no-repeat;
+  min-height: 100vh;
+  padding-top: 15px;
+}
+.imgcontainer {
+  width: 200px;
+  height: 140px;
+  border: solid 5px black;
+  margin: 0 auto 5px auto;
+  display: block;
+  text-align: center;
+  font-weight: bold;
+  font-size: 20px;
+  background-image: url(Flag_images/Orange_question_mark.png);
+  background-size: 100%84%;
+  background-repeat: no-repeat;
+  background-position: bottom;
+  color: white;
+}
+h1 {
+  color: white;
+}
+img {
+  display: inline-block;
+  margin: auto;
+}
+.flag_image {
+  margin-bottom: 5px;
+  cursor: move;
+}
+.explenation {
+  text-align: center;
+}
